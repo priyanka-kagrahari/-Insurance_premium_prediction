@@ -44,17 +44,3 @@ Each of these steps was meticulously executed to create a comprehensive solution
     5) Streamlit
     6) HTML
     7) CSS
-
-### Documentation
-**HIGH LEVEL DESIGN:**[https://drive.google.com/file/d/1TBK2NDSta448c6edSQI_cbm6KJvQRDoK/view?usp=sharing](https://drive.google.com/file/d/1TBK2NDSta448c6edSQI_cbm6KJvQRDoK/view?usp=sharing)
-
-**LOW LEVEL DESIGN:**[https://drive.google.com/file/d/171cKsCfOnRoOSsuEt8K-fawcd2JH_ZYz/view?usp=sharing](https://drive.google.com/file/d/171cKsCfOnRoOSsuEt8K-fawcd2JH_ZYz/view?usp=sharing)
-
-**ARCHITECTURE:**[https://drive.google.com/file/d/1TxImIC3XYaWi_LxG0V8b3AeBM7I3NEJj/view?usp=sharing](https://drive.google.com/file/d/1TxImIC3XYaWi_LxG0V8b3AeBM7I3NEJj/view?usp=sharing)
-
-**WIREFRAME DOCUMENT:**[https://drive.google.com/file/d/1Fe54-aJzmF-G5GSdX-Kt85e_6PxhS0iU/view?usp=sharing](https://drive.google.com/file/d/1Fe54-aJzmF-G5GSdX-Kt85e_6PxhS0iU/view?usp=sharing)
-
-**DETAIL PROJECT REPORT:**[https://drive.google.com/file/d/17nr8DvZDzT4w1uyXcn-oTS1aoRZowKYd/view?usp=sharing](https://drive.google.com/file/d/17nr8DvZDzT4w1uyXcn-oTS1aoRZowKYd/view?usp=sharing)
-
-### Project Demo Video
-**Project demo video:**[https://drive.google.com/file/d/1kwPaeR2KNEN10fH4ehQOdgBjLp1Nk9O9/view?usp=sharing](https://drive.google.com/file/d/1kwPaeR2KNEN10fH4ehQOdgBjLp1Nk9O9/view?usp=sharing)
